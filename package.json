@@ -1,0 +1,15 @@
+{
+  "name": "TwitterBot",
+  "subdomain": "twitterbot-TwitterBot",
+  "scripts": {
+    "start": "bot.js"
+  },
+  "version": "0.0.0-1",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "request": "2.47.x",
+    "twit": "1.1.x"
+  }
+}
